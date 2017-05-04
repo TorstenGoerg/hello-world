@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Just a simple repository
 
 I like Xtext and JetBrains MPS.
